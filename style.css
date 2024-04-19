@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(207, 207, 207);
+    text-align: center;
+    font-family: Roboto;
+}
+
+.container__titulo {
+    color: blue;
+    text-align: center;
+}
+
+img {
+    width: 35%;
+    height: 35%;
+}
+
+.anjo{
+    color: green;
+}
+
+.container__titulo_dica {
+    color: red;
+}
+
+.dicas {
+    color: blue;
+    font-weight: 400;
+}
